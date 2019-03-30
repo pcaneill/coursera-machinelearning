@@ -1,6 +1,7 @@
-# coursera-machinelearning
-Stanford University - Machine Learning by Andrew Ng
 
+See official repository: https://github.com/rmarquis/coursera-machinelearning
+
+Stanford University - Machine Learning by Andrew Ng
 Coursera: [Machine Learning](MachineLearning.ipynb)
 
 ## Summary
@@ -12,7 +13,3 @@ Other review notes are available at:
 
 A Python port of the assignments is available at:
 * https://github.com/dibgerge/ml-coursera-python-assignments
-
-## Certificate
-
-[My Course Certificate](ML-certificate.pdf)
